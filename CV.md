@@ -13,7 +13,7 @@ I have no work experience, but I feel a great desire to work.  But now, it rests
 
 I like to learn everything new and most often it comes easy for me.  At the moment, everything I start to do/learn, I succeeded.  A talented person is talented in everything, and that's about me.
 
-I enjoy friendly teams and human respect.
+I enjoy friendly atmosphere in team and human respect.
 
 Sample code:
 --------------
