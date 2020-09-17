@@ -38,4 +38,4 @@ Priorities:
 Graduated from high school 14 in 2017. Now I am studying at BNTU in my fourth year in the specialty **"packaging production"**, after graduation I will have the qualification of a <u>*engineer-constructor-designer*</u>.
 Graduated from the general hairdresser and hairstyle courses.
 
-English level <u>A2</u>.  In the process of learning a language, it was always easier to give speaking exercises than grammar.
+English level <u>A2+</u>.  In the process of learning a language, it was always easier to give speaking exercises than grammar.
