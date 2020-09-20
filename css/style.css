@@ -1,0 +1,71 @@
+body {
+    background-color: rgb(238, 242, 245);
+}
+
+.container {
+    background-color: white;
+    height: 100%;
+    width: 60%;
+    padding-top: 5px;
+    padding-left: 5px;
+    margin-left: 20%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+img.image {
+    display: inline-block;
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 200px;
+    height: 200px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+div.title {
+    display: inline-block;
+    float: right;
+    margin-right: 20px;
+    margin-top: 5px;
+}
+
+div.name {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 30px;
+}
+
+div.contactInfo {
+    margin-top: 10px;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+}
+
+div.selfreview {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    text-indent: 50px;
+    text-indent: 50px;
+    text-align: justify;
+    margin: 20px;
+    line-height: 1.5;
+}
+
+.codeSnippet {
+    margin-left: -350px;
+
+}
+
+div.code {
+    width: 60%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: rgb(206, 206, 206);
+}
+
+ul.priorities {
+    list-style-type: decimal;
+
+}
+
+li.priorities {
+    list-style-position: inside;
+    margin-left: -40px;
+}
